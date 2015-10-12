@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CrzayAndroidDemo21</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tip">xxx</string>
+    <string-array name="books">
+        <item>疯狂Java讲义</item>
+        <item>疯狂Ajax讲义</item>
+        <item>疯狂XML讲义</item>
+    </string-array>
+</resources>
